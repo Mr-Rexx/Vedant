@@ -50,3 +50,5 @@ y_pred = reg.predict(test_x)
    
 # comparing actual response values (y_test) with predicted response values (y_pred)
 print("Linear Regression model accuracy(in %):", metrics.r2_score(test_y, y_pred)*100)
+
+import Toyota
